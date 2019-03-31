@@ -1,0 +1,19 @@
+{
+  "name": "node.jsboilerplate",
+  "version": "1.0.0",
+  "description": "node boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shauryak3/node.jsBoilerplate.git"
+  },
+  "author": "shaurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shauryak3/node.jsBoilerplate/issues"
+  },
+  "homepage": "https://github.com/shauryak3/node.jsBoilerplate#readme"
+}
